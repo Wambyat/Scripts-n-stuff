@@ -1,0 +1,1 @@
+source ./chipsterenv/bin/activate
